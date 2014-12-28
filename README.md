@@ -5,6 +5,7 @@ Welcome to the facebook-page-like-count-using-django-template-tag wiki!
 
 ## template-tag path:-
 `your_app/`
+
     `templatetags/`
 
        `__init__.py`
